@@ -1,4 +1,4 @@
-# Farmer's Market
+# The Farmer’s Market
 
 Dependencies:
 - React
