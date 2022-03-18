@@ -1,24 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Dependencies:
+- React
+- Ruby
+- Node > 12
+- Yarn
 
-Things you may want to cover:
+Steps to run the project:
 
-* Ruby version
+- bundle install
+- rails db:create db:migrate db:seed
+- yarn
+- rails s
 
-* System dependencies
+Open at localhost:3000
 
-* Configuration
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
